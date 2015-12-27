@@ -2,7 +2,7 @@
 title: "Practical Machine Learning - Course Project"
 author: "gustavohrp"
 date: "24 de dezembro de 2015"
-output: html_document
+output: word_document
 ---
  
 GitHub repo: https://github.com/gustavohrp/Practical-Machine-Learning---Course-Project.git
